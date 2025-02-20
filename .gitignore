@@ -1,0 +1,10 @@
+# Ignore Python or Jupyter Notebook files
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# Ignore node_modules for JavaScript projects
+node_modules/
+
+# Ignore environment files
+.env
