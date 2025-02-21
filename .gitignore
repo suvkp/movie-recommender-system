@@ -8,3 +8,9 @@ node_modules/
 
 # Ignore environment files
 .env
+
+# Ignore datasets
+data/
+
+# ds store file
+.DS_Store
